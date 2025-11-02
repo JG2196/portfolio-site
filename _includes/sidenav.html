@@ -1,0 +1,29 @@
+<ul class="navbar-nav justify-content-middle">
+    {%- if page.url == '/' -%}
+    <li class="nav-item side-nav-w">
+        <a class="nav-link me-3 weight-m" aria-current="page" href="#aboutMe">About me</a>
+    </li>
+    <li class="nav-item side-nav-w">
+        <a class="nav-link me-3 weight-m" href="#skills">Skills</a>
+    </li>
+    <li class="nav-item side-nav-w">
+        <a class="nav-link me-3 weight-m" href="#sideQuests">Side quests</a>
+    </li>
+    <li class="nav-item side-nav-w">
+        <a class="nav-link me-3 weight-m" href="#experience">Experience</a>
+    </li>
+    <li class="nav-item side-nav-w">
+        <a class="nav-link weight-m" href="#education">Education</a>
+    </li>
+    {%- elsif page.url == '/projects.html' -%}
+    <li class="nav-item side-nav-w">
+        <a class="nav-link me-3 weight-m" aria-current="page" href="#projects">Projects</a>
+    </li>
+    <li class="nav-item side-nav-w">
+        <a class="nav-link me-3 weight-m" href="#inTheWorks">In the works</a>
+    </li>
+    <li class="nav-item side-nav-w">
+        <a class="nav-link weight-m" href="#futureIdeas">Future ideas</a>
+    </li>
+    {%- endif -%}
+</ul>

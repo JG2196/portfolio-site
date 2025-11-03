@@ -22,7 +22,7 @@ title: Projects
                     <p>A web app that connects to your Spotify account to generate custom playlists using OpenAI. Just enter a prompt, like a mood or activity and the app builds a tailored playlist for you. Users can browse their existing playlists, view track details, curate new playlists from the AI generated results, and explore playlist metadata.</p>
                 </div>
                 <div class="col-md order-1 order-md-0 mb-3">
-                    <img src="{{ site.baseurl }}/assets/img/PlayGen-open-playlist.png" class="img-fluid rounded border border-2 border-secondary" alt="...">
+                    <img src="{{ site.baseurl }}/assets/img/PlayGen-open-playlist.png" class="img-fluid rounded border border-2 border-secondary" alt="Spotify Playlist Generator preview">
                 </div>
             </div>
             <span class="badge mb-1 rounded-pill pill-display">ASP.NET Core Blazor</span>
@@ -36,7 +36,7 @@ title: Projects
     <div class="card mb-3">
         <div class="card-body">
             <div class="d-flex align-items-center gap-2">
-                <h5 class="h-blue mb-1">jovalg.tech</h5>
+                <h5 class="h-blue mb-1">joval.dev</h5>
             </div>
             <p class="h-grey mb-2"><b>This GitHub Pages portfolio site (v1)</b></p>
             <a href="https://github.com/JG2196/portfolio-site"
@@ -51,7 +51,7 @@ title: Projects
                     <p>This personal portfolio site where I share updates, blog posts, and ongoing projects.</p>
                 </div>
                 <div class="col-md order-1 order-md-0 mb-3">
-                    <img src="{{ site.baseurl }}/assets/img/pfolio-snapshot.png" class="img-fluid rounded border border-2 border-secondary" alt="...">
+                    <img src="{{ site.baseurl }}/assets/img/pfolio-snapshot.png" class="img-fluid rounded border border-2 border-secondary" alt="joval.dev portfolio site preview">
                 </div>
             </div>
             <span class="badge mb-1 rounded-pill pill-display">Jekyll</span>
@@ -72,7 +72,7 @@ title: Projects
                 <p>I wanted to build a minimalist productivity app designed for forward planning and daily focus. The idea came from reflecting on my own workflow, spread across multiple apps, whiteboards, and sticky notes. This app will provide a cleaner, distraction-free way to stay on task.</p>
                 </div>
                 <div class="col-md order-1 order-md-0 mb-3">
-                    <img src="{{ site.baseurl }}/assets/img/AuxDesk-snapshot.png" class="img-fluid rounded border border-2 border-secondary" alt="...">
+                    <img src="{{ site.baseurl }}/assets/img/AuxDesk-snapshot.png" class="img-fluid rounded border border-2 border-secondary" alt="AuxDesk preview">
                 </div>
             </div>
             <span class="badge mb-1 rounded-pill pill-display">ASP.NET Core Blazor Hybrid</span>

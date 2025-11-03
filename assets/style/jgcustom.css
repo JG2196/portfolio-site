@@ -32,21 +32,35 @@
     padding-top: 100px;
 }
 
+:target {
+  scroll-margin-top: 106px;
+}
+
 @media (max-width: 412px) {
-  .bp-top {
+    .bp-top {
     margin-top: 138px;
     }
+    :target {
+  scroll-margin-top: 165px;
+    }
+
 }
 
 @media (max-width: 197px) {
-  .bp-top {
+    .bp-top {
     margin-top: 234px;
+    }
+    :target {
+  scroll-margin-top: 208px;
     }
 }
 
 @media (max-width: 133px) {
   .bp-top {
     margin-top: 379px;
+    }
+    :target {
+  scroll-margin-top: 300px;
     }
 }
 

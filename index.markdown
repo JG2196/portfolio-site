@@ -58,7 +58,7 @@ title: Home
 </div>
 
 <div class="border-bottom mb-3">
-    <h3 class="mb-2 h-grey" id="sideQuests">Side quests</h3>
+    <h3 class="mb-2 h-grey" id="randomBits">Random bits</h3>
     <div class="row">
         <div class="col">
             <div class="card mb-4 border-2">

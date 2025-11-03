@@ -39,7 +39,7 @@ title: Projects
                 <h5 class="h-blue mb-1">jovalg.tech</h5>
             </div>
             <p class="h-grey mb-2"><b>This GitHub Pages portfolio site (v1)</b></p>
-            <a href="https://github.com/JG2196/SpotifyPlaylistGenerator"
+            <a href="https://github.com/JG2196/portfolio-site"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="btn src-btn d-inline-flex align-items-center px-2 mb-2">

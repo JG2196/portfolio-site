@@ -22,7 +22,7 @@ title: Home
         <div class="col-12 col-md">
             <span class="badge rounded-pill pill-display weight-m mb-2">.NET</span>
             <span class="badge rounded-pill pill-display weight-m mb-2">C#</span>
-            <span class="badge rounded-pill pill-display weight-m mb-2">Microosoft Entra</span>
+            <span class="badge rounded-pill pill-display weight-m mb-2">Microsoft Entra</span>
             <span class="badge rounded-pill pill-display weight-m mb-2">Power Automate</span>
         </div>
     </div>
@@ -63,12 +63,12 @@ title: Home
         <div class="col">
             <div class="card mb-4 border-2">
                 <div class="card-body">
-                    <b class="weight-m">Before tech, I was a footwear designer.</b>seeing my designs on the high street was a pretty cool and satisfying experience.
+                    <b class="weight-m">Before tech, I was a footwear designer.</b> Seeing my designs on the high street was a pretty cool and satisfying experience.
                 </div>
             </div>
             <div class="card my-4 border-2">
                 <div class="card-body">
-                    <b class="weight-m">I'm an amateur bodybuilder</b> and have competed internationally. My proudest moment? Winning a british final in 2024.
+                    <b class="weight-m">I'm an amateur bodybuilder</b> and have competed internationally. My proudest moment? Winning a British final in 2024.
                 </div>
             </div>
         </div>
@@ -128,7 +128,7 @@ title: Home
             <p>2013 - 2016</p>
         </div>
         <div class="col">
-            <p class="weight-m">BA (Hons) Professiona Studies (Creative Industries)</p>
+            <p class="weight-m">BA (Hons) Professional Studies (Creative Industries)</p>
         </div>
     </div>
 </div>

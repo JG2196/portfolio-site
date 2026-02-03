@@ -81,6 +81,7 @@ title: Projects
                 </div>
             </div>
             <span class="badge mb-1 rounded-pill pill-display">.NET 10</span>
+            <span class="badge mb-1 rounded-pill pill-display">C#</span>
             <span class="badge mb-1 rounded-pill pill-display">Copilot SDK</span>
             <span class="badge mb-1 rounded-pill pill-display">Copilot CLI</span>
             <span class="badge mb-1 rounded-pill pill-display">OpenAI</span>
